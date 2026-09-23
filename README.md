@@ -32,6 +32,7 @@ focus:
   - Building scalable SaaS platforms & intelligent systems
   - Leading multi-client software architecture
   - Bridging engineering, cloud/DevOps & business analysis
+  - Developing & customizing Odoo ERP modules
 languages: ["Français", "English"]
 ```
 
@@ -40,6 +41,7 @@ languages: ["Français", "English"]
 <td align="center" width="140">💻<br><b>Full-Stack</b></td>
 <td align="center" width="140">☁️<br><b>Cloud & DevOps</b></td>
 <td align="center" width="140">🤖<br><b>AI / MLOps</b></td>
+<td align="center" width="140">🟣<br><b>Odoo ERP</b></td>
 <td align="center" width="140">🏗️<br><b>Architecture</b></td>
 <td align="center" width="140">📊<br><b>Business Analysis</b></td>
 </tr>
@@ -53,7 +55,7 @@ languages: ["Français", "English"]
 <p> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </p>
 
 **Frameworks**
-<p> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/> <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/> <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/> </p>
 
 **Data**
 <p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> </p>
@@ -63,6 +65,18 @@ languages: ["Français", "English"]
 
 **Business Analysis & BI**
 <p> <img src="https://img.shields.io/badge/Functional_Specifications-0A1628?style=flat-square"/> <img src="https://img.shields.io/badge/User_Stories-1A5CDB?style=flat-square"/> <img src="https://img.shields.io/badge/BRD-0A1628?style=flat-square"/> <img src="https://img.shields.io/badge/SRS-1A5CDB?style=flat-square"/> <img src="https://img.shields.io/badge/BRS-0A1628?style=flat-square"/> <img src="https://img.shields.io/badge/Product_Backlog-1A5CDB?style=flat-square"/> <img src="https://img.shields.io/badge/Design_Thinking-F5A623?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> </p>
+
+---
+
+### 🟣 Odoo Development
+
+<p> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OWL-714B67?style=flat-square"/> <img src="https://img.shields.io/badge/QWeb-875A7B?style=flat-square"/> <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> </p>
+
+- 🧩 **Custom modules** — development of business-specific Odoo addons (models, views, security, wizards)
+- 🔧 **Customization** — extending standard apps (Sales, Inventory, Accounting, HR, CRM…) via inheritance
+- 🖥️ **Frontend** — OWL components, QWeb reports & views
+- 🔗 **Integrations** — connecting Odoo to external systems through XML-RPC / JSON-RPC & REST APIs
+- 🚀 **Deployment** — Dockerized Odoo instances, upgrades & data migration
 
 ---
 
@@ -116,5 +130,3 @@ languages: ["Français", "English"]
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5CDB,100:0A1628&height=100&section=footer" width="100%"/>
-
-</div>
